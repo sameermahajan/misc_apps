@@ -1,5 +1,5 @@
 https://console.twilio.com/
-    Account Dashboard -> Account SID
+    Account Dashboard -> Account SID, 
                          Auth Token
                          
 uvicorn app:app --reload --port 8000
