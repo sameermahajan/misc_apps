@@ -1,8 +1,12 @@
 # Setup
 
 https://console.twilio.com/
-    Account Dashboard -> Account SID, 
-                         Auth Token
+
+Get Account SID and Auth Token from Account Dasshboard, Account Info section
+
+set TWILIO_ACCOUNT_SID and TWILIO_AUTH_TOKEN in your environment with these values
+
+set TWILIO_WHATSAPP_FROM=whatsapp:+14155238886 in your environment
 
 # Running app
                          
